@@ -63,9 +63,7 @@ export function CatchBoundary() {
       );
       break;
     case 404:
-      message = (
-        <p>Looks like you tried to visit a page that does not exist.</p>
-      );
+      message = <p>DuongNT</p>;
       break;
     default:
       message = (
